@@ -1,0 +1,7 @@
+arbuz 5
+kiwi 8
+arbuz 3
+arbuz 9
+kiwi 2
+kiwi 1
+ananas 10
